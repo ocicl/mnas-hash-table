@@ -1,0 +1,10 @@
+* mnas-hash-table
+
+System mnas-hash-table defines some functions for working with hash tables.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mnasoft/mnas-hash-table.git   |
+| commit  | d65e46b  |
+| systems | mnas-hash-table |
+|---------+-------------------------------------------|
+
